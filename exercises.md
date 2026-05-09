@@ -25,7 +25,7 @@
 | 痛经剧烈（经期） | 全部高强度（HIIT / 力量 / 核心） | 散步、阴瑜伽、热敷拉伸；详见 `cycle-rules.md` §menstrual |
 | 偏头痛 | 倒立、低头长时间 | 直立 / 仰卧动作 |
 
-### 体态问题（强化方向；参考 influences.md §体态大师 6 动作清单）
+### 体态问题（强化方向：体态修正派常用 6 动作清单）
 
 | 体态 | 重点强化 | 重点拉伸 / 松解 |
 |---|---|---|
@@ -87,12 +87,12 @@ LLM 设计训练菜单时**严格按以下步骤**：
 | 死虫子 | strength | 全周期友好 | 核心训练首选 |
 | 鸟狗式 | strength | 全周期友好 | 体态修正友好 |
 | 卷腹 | strength | follicular / ovulatory | luteal 慎做核心 |
-| 侧平板（抬腿）| strength | follicular / ovulatory | 体态大师推荐：纠正 O 型腿 |
-| 蚌式 | strength | 全周期友好 | 体态大师推荐：臀中肌激活 |
-| 消防栓式 | strength | 全周期友好 | 体态大师推荐：臀外侧 |
-| 站姿侧抬腿 | strength | 全周期友好 | 体态大师推荐：纠正假胯宽 |
-| 跪姿后抬腿 | strength | 全周期友好 | 体态大师推荐：臀大肌 |
-| 宽距深蹲（自重）| strength | follicular / ovulatory / luteal 早期 | 体态大师推荐：纠正假胯宽 |
+| 侧平板（抬腿）| strength | follicular / ovulatory | 体态修正派：纠正 O 型腿 |
+| 蚌式 | strength | 全周期友好 | 体态修正派：臀中肌激活 |
+| 消防栓式 | strength | 全周期友好 | 体态修正派：臀外侧 |
+| 站姿侧抬腿 | strength | 全周期友好 | 体态修正派：纠正假胯宽 |
+| 跪姿后抬腿 | strength | 全周期友好 | 体态修正派：臀大肌 |
+| 宽距深蹲（自重）| strength | follicular / ovulatory / luteal 早期 | 体态修正派：纠正假胯宽 |
 | 鸽子式 | stretching | 全周期 | 髋部拉伸 |
 | 猫牛式 | stretching | 全周期 | 脊柱灵活性 |
 | 婴儿式 | stretching | 全周期 | 拉伸 + 放松 |

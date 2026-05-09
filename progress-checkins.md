@@ -35,7 +35,7 @@
 - **profile 禁忌违反**：检查 `diet_pattern.restrictions`，列具体冲突项
 - **当日 < 1200 kcal 趋势**：剩余 kcal < 600 而剩余餐次 < 2 时警示（参考 `kcal-targets.md` 1200 底线）
 - **蛋白质不足**：当日累计 < 0.8 g/kg 趋势
-- **糖油混合物预警**：用户报告吃了油条 / 烧饼 / 油炸糖食（参考修贤"避开糖油混合物"）
+- **糖油混合物预警**：用户报告吃了油条 / 烧饼 / 油炸糖食（建议日常少吃，更好放进周末放纵餐时段）
 - **luteal 期高钠**：黄体期吃了过多咸的（火锅 / 麻辣烫汤底全喝 / 重口味卤味）→ 提醒水肿风险
 - **menstrual 期生冷**：经期吃了冰饮 / 刺身 / 凉拌生菜 → 提醒可能加重不适
 - **ED 信号**：用户说"今天就吃这一顿""什么都不想吃""吃完特别罪恶"——立即触发 `cycle-rules.md §跨阶段共通原则` ED 警示，**停止 kcal 评估** + 共情 + 建议加餐 + 必要时建议心理咨询
@@ -159,5 +159,4 @@
 - `weekly-split.md` — 训练强度 vs phase 是否匹配的判据
 - `lifestyle-tips.md` — 食物 kcal 估算参考
 - `exercises.md` — 受伤史命中时的禁忌动作对照
-- `influences.md` — 修贤"放纵不等于失败"理念用于偶尔超 kcal 时的安抚
 - `state/profile-schema.md` — `diet_pattern.restrictions` / `body_status.*` 必读用作风险检查

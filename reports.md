@@ -425,4 +425,3 @@ Section C（饮食）和 Section E（训练）的卡路里 / 营养素分配要*
 - `kcal-targets.md` — Report 1/2/3 三份的 kcal 数字均按本文件公式算
 - `lifestyle-tips.md` — Report 3 的饮食组合从此文件挑
 - `exercises.md` — Report 2/3 的动作清单 + 禁忌过滤源（仅文字，不带示范图）
-- `influences.md` — 三份报告的语气风格 / 反节食立场来源
